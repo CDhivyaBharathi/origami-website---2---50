@@ -1,0 +1,29 @@
+h1{
+    color: black;
+}
+h3{
+    color: chartreuse;
+}
+*{
+    background-color: aquamarine;
+}
+
+.origami{
+    display: flex;
+    justify-content: space-between;
+}
+
+.game{
+    display: flex;
+   justify-content: flex-end;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.chameleon{
+    display: flex;
+    
+}
